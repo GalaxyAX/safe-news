@@ -1,38 +1,68 @@
 [
     {
         "id": "1",
+        "slug": "new-travel-advisory-southeast-asia",
         "title": "New Travel Advisory Issued for Southeast Asia",
         "summary": "Authorities warn of increased monsoon activity affecting major tourist hubs.",
         "content": "Meteorological departments across Southeast Asia have issued high-level warnings as an unusually early monsoon season begins to impact the region.\n\nMajor tourist destinations in Thailand, Vietnam, and Indonesia are experiencing record rainfall, leading to localized flooding and transportation disruptions. Travelers are advised to monitor local weather reports closely and avoid mountainous regions where landslide risks are elevated.\n\nAirlines have reported minor delays, and some ferry services between islands have been suspended until sea conditions improve.",
-        "date": "2024-03-14",
+        "author": "SafeTravel Intelligence",
+        "datePublished": "2024-03-14T08:00:00+00:00",
         "category": "Weather",
+        "tags": [
+            "Southeast Asia",
+            "Monsoon",
+            "Travel Advisory",
+            "Flooding"
+        ],
         "imageUrl": "https://picsum.photos/seed/monsoon/800/600"
     },
     {
         "id": "2",
+        "slug": "digital-nomad-visa-program-expanded-in-europe",
         "title": "Digital Nomad Visa Program Expanded in Europe",
         "summary": "Three more countries announce streamlined residency permits for remote workers.",
         "content": "The trend of remote work continues to reshape European immigration policies. This week, Greece, Italy, and Romania officially launched their expanded digital nomad visa programs, offering simplified application processes for non-EU citizens.\n\nThese visas typically require proof of remote employment with a company outside the host country and a minimum monthly income threshold. The move is seen as an effort to boost local economies and attract high-skilled talent to less-populated regions.",
-        "date": "2024-03-12",
+        "author": "SafeTravel Intelligence",
+        "datePublished": "2024-03-12T08:00:00+00:00",
         "category": "Political",
+        "tags": [
+            "Europe",
+            "Digital Nomad",
+            "Travel Advisory",
+            "Flooding"
+        ],
         "imageUrl": "https://picsum.photos/seed/nomad/800/600"
     },
     {
         "id": "3",
+        "slug": "global-health-update-seasonal-flu-trends",
         "title": "Global Health Update: Seasonal Flu Trends",
         "summary": "WHO reports shift in seasonal influenza patterns in the Southern Hemisphere.",
         "content": "The World Health Organization (WHO) has released its latest surveillance report on global influenza trends. Data suggests a significant shift in the timing of seasonal outbreaks in several Southern Hemisphere countries.\n\nHealth officials recommend that international travelers ensure their vaccinations are up to date, particularly when moving between different climate zones. Basic hygiene practices remain the most effective defense against transmission in crowded transit hubs.",
-        "date": "2024-03-10",
+        "author": "SafeTravel Intelligence",
+        "datePublished": "2024-03-10T08:00:00+00:00",
         "category": "Health",
+        "tags": [
+            "Health",
+            "Flu",
+            "WHO"
+        ],
         "imageUrl": "https://picsum.photos/seed/health/800/600"
     },
     {
         "id": "4",
+        "slug": "major-infrastructure-project-completed-in-tokyo",
         "title": "Major Infrastructure Project Completed in Tokyo",
         "summary": "New high-speed rail link reduces travel time between Narita Airport and downtown.",
         "content": "Tokyo's transportation network has received a major upgrade with the completion of the \"SkyExpress\" rail project. The new line promises to cut travel time from Narita International Airport to central Tokyo by nearly 15 minutes.\n\nThe project features state-of-the-art autonomous train technology and enhanced accessibility features for travelers with heavy luggage. This development is expected to significantly ease congestion on existing airport express routes.",
-        "date": "2024-03-08",
+        "author": "SafeTravel Intelligence",
+        "datePublished": "2024-03-08T08:00:00+00:00",
         "category": "Safety",
+        "tags": [
+            "Safety",
+            "Tokyo",
+            "Infrastructure"
+        ],
         "imageUrl": "https://picsum.photos/seed/tokyo/800/600"
     }
 ]
