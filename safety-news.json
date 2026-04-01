@@ -1,9 +1,12 @@
 [
     {
+        "id": "7",
         "slug": "iran-linked-cyberattack-healthcare-risk",
         "title": "Healthcare Cyberattack Alert",
         "summary": "An Iran-linked cyberattack targeting a major medical company has raised concerns about escalating cyber warfare and risks to critical infrastructure.",
         "content": "# Cyberattack Targets Healthcare Sector\n\nA major U.S.-linked medical company has been hit by a **cyberattack believed to be connected to Iran-linked actors**.\n\n---\n\n## Nature of the Threat\n\nReports indicate:\n\n- Disruptions to network operations\n- Emergency disconnections by healthcare providers\n- Potential exposure of sensitive systems\n\n---\n\n## Critical Infrastructure Risk\n\nHealthcare systems are considered high-risk targets due to:\n\n- Dependence on real-time data systems\n- Life-critical operations\n- Limited tolerance for downtime\n\n---\n\n## Escalation of Cyber Warfare\n\nThe attack is part of a broader trend:\n\n- State-linked cyber operations increasing\n- Targeting of civilian infrastructure\n- Expansion of hybrid warfare tactics\n\n---\n\n## Conclusion\n\nThe incident underscores growing cybersecurity threats to essential services and highlights the need for stronger digital defense strategies.",
+        "author": "SafeTravel Intelligence",
+        "datePublished": "2026-04-01T08:01:60+00:00",
         "category": "Safety",
         "tags": [
             "Cybersecurity",
