@@ -1,5 +1,23 @@
 [
     {
+        "id": "10",
+        "slug": "indonesia-earthquake",
+        "title": "Powerful Indonesia Quake Kills 1",
+        "summary": "A 7.6-magnitude earthquake struck off eastern Indonesia on April 2, killing at least one person and triggering tsunami alerts that were later lifted.",
+        "content": "# Powerful Indonesia Quake Kills 1\n\nA magnitude 7.6 earthquake struck off Indonesia’s Maluku Islands on April 2, killing at least one person and damaging buildings, authorities said【23†L195-L203】. The quake hit in the Northern Molucca Sea and was followed by dozens of aftershocks, the country’s meteorology agency reported.\n\n---\n\n## Tsunami alert lifted\n\nInitial tsunami warnings were issued after the quake. The meteorology agency recorded tsunami waves up to 0.75 meters (2.5 feet) along parts of Sulawesi island【23†L199-L207】, but the warnings were later lifted. More than 50 aftershocks were recorded in the hours after the quake, the largest measuring magnitude 5.8. Officials said the risk of further casualties was low, though residents were urged to stay alert.\n\n## Damage and casualties\n\nThe quake caused buildings to collapse and roads to crack in parts of Sulawesi. Emergency teams reported at least one fatality from falling debris in North Sulawesi province【23†L195-L203】. Many residents fled to higher ground amid fears of flooding, and temporary shelters were set up for those whose homes were damaged. The government deployed search and rescue teams to assess the damage and assist survivors.\n\n## Seismic risk in Indonesia\n\nIndonesia sits along the Pacific \"Ring of Fire\" and is prone to powerful earthquakes. In recent years, strong quakes and volcanic eruptions have caused severe damage and thousands of deaths. The latest tremor highlights the ongoing threat to communities in this seismically active region.\n\n---\n\n## Emergency response\n\nDisaster agencies said they were checking dams, bridges and other infrastructure for damage. Hospitals in affected areas reported treating the injured. International aid organizations have offered support as the government works to restore utilities and provide relief to those affected by the quake.",
+        "author": "SafeTravel Intelligence",
+        "datePublished": "2026-04-02T11:00:00+00:00",
+        "category": "Safety",
+        "tags": [
+            "Earthquake",
+            "Indonesia",
+            "Tsunami",
+            "Natural Disaster",
+        "Asia"
+        ],
+        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/indonesia-earthquake.jpg"
+    },
+    {
         "id": "9",
         "slug": "tokyo-earthquake",
         "title": "Tokyo Shaken by Earthquake",
