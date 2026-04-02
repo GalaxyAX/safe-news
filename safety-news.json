@@ -1,5 +1,23 @@
 [
     {
+        "id": "9",
+        "slug": "tokyo-earthquake",
+        "title": "Tokyo Shaken by Earthquake",
+        "summary": "A magnitude 5.0 earthquake struck near Tokyo on April 1, shaking buildings but causing no major damage, officials said.",
+        "content": "# Tokyo Shaken by Earthquake\n\nA magnitude 5.0 earthquake struck near Tokyo on April 1, shaking buildings across the capital but causing no major damage, authorities said【5†L187-L194】. Japan’s meteorological agency reported the quake’s epicentre was in the Ibaraki region, about 50 km (31 miles) underground. No tsunami warning was issued.\n\n---\n\n## Limited damage, no injuries\n\nOfficials said there were no immediate reports of injuries or serious damage. Buildings swayed in Tokyo’s high-rise districts, and some residents rushed outside as the shaking lasted a few seconds. A Japan Meteorological Agency official said the tremor was relatively shallow but noted only minor damage was reported.\n\n## Regular quakes in Japan\n\nJapan lies on the Pacific \"Ring of Fire\" and experiences frequent seismic activity. The country has strict building codes and conducts regular earthquake drills to protect people and infrastructure when quakes occur.\n\n## Ongoing monitoring\n\nAftershocks were expected, and authorities said they were monitoring the region closely. Emergency services remained on alert to assess any delayed effects, but officials said they did not anticipate significant disruption from the quake.",
+        "author": "SafeTravel Intelligence",
+        "datePublished": "2026-04-02T10:00:00+00:00",
+        "category": "Safety",
+        "tags": [
+            "Earthquake",
+            "Japan",
+            "Infrastructure",
+            "Natural Disaster",
+            "Safety"
+        ],
+        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/tokyo-earthquake.jpg"
+    },
+    {
          "id": "8",
         "slug": "healthcare-cyberattack-alert",
         "title": "Healthcare Cyberattack Alert",
