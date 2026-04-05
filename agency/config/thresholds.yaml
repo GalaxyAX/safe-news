@@ -1,0 +1,48 @@
+# Alert thresholds and severity rules
+
+alerting:
+  immediate_threshold:
+    severity_minimum: 5  # critical
+    same_country_high_events: 3  # events with severity >= 4
+    same_region_same_type: 5  # same event type in region within 12h
+    time_window_hours: 24
+
+  watch_threshold:
+    severity_increase: 2  # jump in severity levels
+    new_event_type_in_stable: true
+    event_rate_stddev: 2  # events > baseline + 2*stddev
+
+severity_labels:
+  1: "low"
+  2: "low"
+  3: "medium"
+  4: "high"
+  5: "critical"
+
+event_type_weights:
+  armed_conflict: 1.0
+  terrorism: 1.0
+  health_crisis: 0.9
+  natural_disaster: 0.8
+  civil_unrest: 0.6
+  other: 0.3
+
+escalation_rules:
+  rapid_escalation:
+    condition: "2+ severity increases within 12h"
+    action: "immediate alert"
+  
+  geographic_spread:
+    condition: "event affects 3+ countries"
+    action: "watch alert"
+  
+  compound_crisis:
+    condition: "3+ event types in same country within 48h"
+    action: "immediate alert"
+
+quality_thresholds:
+  min_confidence: 0.30
+  auto_pass_confidence: 0.75
+  min_seo_score: 60
+  min_article_word_count: 150
+  max_output_events: 100

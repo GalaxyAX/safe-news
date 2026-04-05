@@ -1,0 +1,44 @@
+# Country code mappings for SafeTravel OSINT pipeline
+
+mappings:
+  Iraq: {code: "IQ", alpha3: "IRQ", region: "Middle East"}
+  Iran: {code: "IR", alpha3: "IRN", region: "Middle East"}
+  Israel: {code: "IL", alpha3: "ISR", region: "Middle East"}
+  Lebanon: {code: "LB", alpha3: "LBN", region: "Middle East"}
+  Turkey: {code: "TR", alpha3: "TUR", region: "Middle East"}
+  Syria: {code: "SY", alpha3: "SYR", region: "Middle East"}
+  Yemen: {code: "YE", alpha3: "YEM", region: "Middle East"}
+  "United States": {code: "US", alpha3: "USA", region: "North America"}
+  USA: {code: "US", alpha3: "USA", region: "North America"}
+  Ethiopia: {code: "ET", alpha3: "ETH", region: "East Africa"}
+  Egypt: {code: "EG", alpha3: "EGY", region: "North Africa"}
+  Japan: {code: "JP", alpha3: "JPN", region: "East Asia"}
+  Tokyo: {code: "JP", alpha3: "JPN", region: "East Asia"}
+  "North Korea": {code: "KP", alpha3: "PRK", region: "East Asia"}
+  Norway: {code: "NO", alpha3: "NOR", region: "Northern Europe"}
+  Oslo: {code: "NO", alpha3: "NOR", region: "Northern Europe"}
+  Palestine: {code: "PS", alpha3: "PSE", region: "Middle East"}
+  Gaza: {code: "PS", alpha3: "PSE", region: "Middle East"}
+  Bangladesh: {code: "BD", alpha3: "BGD", region: "South Asia"}
+  India: {code: "IN", alpha3: "IND", region: "South Asia"}
+  Bahrain: {code: "BH", alpha3: "BHR", region: "Middle East"}
+  UAE: {code: "AE", alpha3: "ARE", region: "Middle East"}
+  "Saudi Arabia": {code: "SA", alpha3: "SAU", region: "Middle East"}
+  Pakistan: {code: "PK", alpha3: "PAK", region: "South Asia"}
+
+city_aliases:
+  Beirut: "LB"
+  Tehran: "IR"
+  Baghdad: "IQ"
+  "Tel Aviv": "IL"
+  Ankara: "TR"
+  Damascus: "SY"
+  Sanaa: "YE"
+  Washington: "US"
+  "New York": "US"
+  "Addis Ababa": "ET"
+  Cairo: "EG"
+  Karachi: "PK"
+  Kolkata: "IN"
+  Bushehr: "IR"
+  Mahshahr: "IR"
