@@ -1,6 +1,6 @@
 [
     {
-        "id": "45",
+        "id": "46",
         "slug": "ireland-fuel-price-protests-tractors-trucks-dublin-april-2026",
         "title": "Tractors and Trucks Gridlock Dublin as Ireland Erupts in Fuel Price Protests",
         "summary": "Thousands of truckers, farmers, and business owners have brought traffic to a standstill in Dublin and across Ireland, demanding the government remove carbon taxes and excise duties as fuel prices soar to record highs amid the ongoing Middle East conflict.",
@@ -16,10 +16,11 @@
             "Farmers",
             "Truckers"
         ],
-        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/ireland-fuel-protest-tractors.jpg"
+        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/ireland-fuel-protest-tractors.jpg",
+        "country": ["Ireland", "Iran"]
     },
     {
-        "id": "44",
+        "id": "45",
         "slug": "us-airstrikes-kharg-island-iran-oil-hub-april-2026",
         "title": "US Strikes 50 Military Targets on Iran's Kharg Island Hours Before Deadline",
         "summary": "In a significant escalation just hours before President Trump's 8 PM ET ultimatum, US forces have conducted airstrikes on 50 military targets on Kharg Island, Iran's critical oil export hub, while the President warned that 'a whole civilization will die tonight' if Tehran fails to reopen the Strait of Hormuz.",
@@ -38,7 +39,7 @@
         "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/kharg-island-strikes.jpg"
     },
     {
-        "id": "43",
+        "id": "44",
         "slug": "istanbul-israeli-consulate-shooting-attack-april-2026",
         "title": "Deadly Gunfight Erupts Outside Israeli Consulate in Istanbul, Neutralizing Multiple Attackers",
         "summary": "Turkish police engaged in a fierce firefight with armed assailants outside the Israeli Consulate in Istanbul, neutralizing at least two attackers and injuring two officers in a brazen daylight assault that underscores the widening geographic scope of the Middle East conflict.",
@@ -56,7 +57,7 @@
         "imageUrl":"https://github.com/GalaxyAX/safe-news/blob/main/image/istanbul-consulate-shooting.jpg"
     },
     {
-        "id": "42",
+        "id": "43",
         "slug": "travel-advisory-escaping-conflict-zones-middle-east-april-2026",
         "title": "No Way Out? A Traveler’s Guide to Exiting Active Conflict Zones in the Middle East",
         "summary": "As the US-Israel war on Iran intensifies, airspace closures and border shutdowns have stranded thousands of travelers. This advisory details the current status of flights, land crossings, and rail networks in Iran, Israel, Lebanon, and surrounding Gulf states, offering critical guidance for nomads and tourists attempting to evacuate.",
@@ -78,7 +79,7 @@
         "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/travel-advisory.jpg"
     },
     {
-        "id": "41",
+        "id": "42",
         "slug": "iran-human-shields-power-plants-trump-deadline-april-2026",
         "title": "Iran Mobilizes 'Human Shields' Around Power Plants as Trump's Strike Deadline Looms",
         "summary": "In a dramatic escalation of civilian involvement in the conflict, Iranian officials have called on youth, athletes, and students to form human chains around the country's power plants to deter US airstrikes, raising serious humanitarian and legal concerns just hours before President Trump's 8 PM ET ultimatum expires.",
@@ -96,7 +97,7 @@
         "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/iran-human-shields.jpg"
     },
     {
-        "id": "40",
+        "id": "41",
         "slug": "saudi-arabia-iranian-strikes-ras-tanura-us-base-casualties-april-2026",
         "title": "Iranian Strikes Hit US Bases and Ras Tanura Oil Hub in Saudi Arabia, Killing US Soldier",
         "summary": "Iranian missile and drone attacks on Saudi Arabia have targeted US military bases and the critical Ras Tanura oil refinery, resulting in the death of a US soldier and causing fires at the world's largest offshore oil facility, marking a dangerous expansion of the conflict into the heart of the Gulf's energy infrastructure.",
@@ -115,7 +116,7 @@
         "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/saudi-arabia-ras-tanura-strike.jpg"
     },
     {
-        "id": "39",
+        "id": "40",
         "slug": "iran-rejects-us-ceasefire-ultimatum-strait-hormuz-standoff",
         "title": "Iran Rejects US Ceasefire Ultimatum as Strait of Hormuz Standoff Deepens",
         "summary": "Iran has rejected a US ceasefire proposal, demanding permanent guarantees against future attacks as a Tuesday deadline looms for reopening the Strait of Hormuz, prolonging a conflict that has killed over 2,000 people since June 2025.",
