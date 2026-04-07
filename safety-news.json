@@ -1,5 +1,23 @@
 [
     {
+        "id": "47",
+        "slug": "deadly-earthquake-floods-worsen-afghanistan-crisis-april-2026",
+        "title": "Deadly Earthquake and Floods Compound Afghanistan's Humanitarian Crisis",
+        "summary": "Recent flooding that killed at least 77 people and destroyed thousands of homes has been followed by a deadly earthquake, worsening Afghanistan's already dire humanitarian situation.",
+        "content": "Afghanistan is facing a worsening humanitarian crisis as deadly flooding and a subsequent earthquake have compounded the country's existing challenges of poverty, displacement, and limited infrastructure.\n\nAccording to reports, flooding across Afghanistan has killed at least 77 people this week and destroyed or damaged thousands of homes. The deluge has washed away crops, disrupted access to clean water, and left many families without shelter or basic possessions in the immediate aftermath. Reports indicate the northern provinces of Balkh, Faryab, and Jowzjan were particularly hard hit, with entire villages submerged under meters of water as rivers overflowed their banks.\n\nThe flooding was followed by an earthquake on Friday that killed a dozen more people, adding to the mounting toll and further straining the country's limited emergency response capabilities. The seismic event, measuring 5.2 on the Richter scale, struck the northeastern province of Badakhshan while many communities were still grappling with the effects of the floods, creating a cascading disaster scenario that has overwhelmed local authorities. Aftershocks continued through the weekend, hampering rescue operations and keeping residents in a state of fear.\n\nThese disasters have struck a country already facing one of the world's most severe humanitarian crises. Decades of conflict, economic collapse, and drought have left millions of Afghans dependent on international aid, with the United Nations estimating that over half the population requires humanitarian assistance to survive. Even before the floods and earthquake, the World Food Programme reported that acute malnutrition affected nearly 2 million children under five across the country.\n\nThe combined impact of the floods and earthquake has exacerbated existing vulnerabilities in multiple ways. Damaged roads and bridges have hampered relief efforts, preventing aid trucks from reaching isolated communities. Contaminated water sources from flooded latrines and carcasses raise serious concerns about outbreaks of cholera and other waterborne diseases. The destruction of agricultural land and stored grain stocks threatens food security in regions where many families were already struggling to meet basic nutritional needs, potentially pushing more people into crisis levels of hunger.\n\nLivestock losses have been significant, with farmers reporting hundreds of sheep and goats swept away by floodwaters or killed in the earthquake, destroying a critical source of income and protein for rural families. The loss of draft animals further impedes agricultural recovery, as many farmers rely on oxen for plowing fields.\n\nInternational aid organizations including the International Committee of the Red Cross, UNICEF, and various NGOs have mobilized to respond to the disaster, though access challenges and funding constraints continue to limit the scale of assistance that can be delivered. Helicopter deliveries have been necessary to reach some cut-off areas, while local volunteers have formed human chains to distribute supplies where vehicles cannot pass.\n\nThe disasters have highlighted the urgent need for improved disaster preparedness and resilience measures in a country highly vulnerable to both natural hazards and the effects of climate change. Experts note that Afghanistan's mountainous terrain and increasing climate variability make it particularly susceptible to flash floods and seismic events, yet early warning systems remain limited and community-based disaster response training is inadequate.\n\nAs recovery efforts begin, the focus is shifting toward providing emergency shelter in the form of tents and plastic sheeting, clean water through purification tablets and tanker trucks, medical care via mobile clinics, and food assistance including high-energy biscuits and fortified flour. Longer-term reconstruction will be needed to rebuild homes with more flood-resistant designs, restore damaged infrastructure like roads and irrigation canals, and revive livelihoods lost in the disasters through seed distribution and livestock restocking programs.\n\nThe situation in Afghanistan underscores how natural disasters can rapidly escalate humanitarian crises in fragile contexts, particularly when they strike populations already coping with multiple overlapping challenges including conflict, economic hardship, and climate-related stresses. Without sustained international attention and funding, the recovery process could be prolonged, leaving vulnerable populations at risk of further deterioration in the months ahead.",
+        "author": "SafeTravel Intelligence",
+        "datePublished": "2026-04-07T21:25:01.730471+00:00",
+        "category": "Disaster",
+        "tags": [
+            "Afghanistan",
+            "earthquake",
+            "floods",
+            "natural disaster"
+        ],
+        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/image/deadly-earthquake-floods-worsen-afghanistan.jpg",
+        "country": ["Afghanistan"]
+},
+    {
         "id": "46",
         "slug": "ireland-fuel-price-protests-tractors-trucks-dublin-april-2026",
         "title": "Tractors and Trucks Gridlock Dublin as Ireland Erupts in Fuel Price Protests",
@@ -17,7 +35,7 @@
             "Truckers"
         ],
         "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/ireland-fuel-protest-tractors.jpg",
-        "country": ["Ireland", "Iran"]
+        "country": ["Ireland"]
     },
     {
         "id": "45",
