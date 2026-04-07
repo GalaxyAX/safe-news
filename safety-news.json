@@ -1,6 +1,26 @@
 [
     {
-        "id": "20260407-003",
+        "id": "49",
+        "slug": "trump-agrees-two-week-ceasefire-iran-strait-hormuz-april-2026",
+        "title": "Trump Agrees to Two-Week Ceasefire with Iran After Frantic Peace Talks",
+        "summary": "President Donald Trump has agreed to a two-week ceasefire with Iran just hours before his threatened deadline to strike Iranian power plants and bridges, contingent on Iran completely and safely reopening the Strait of Hormuz.",
+        "content": "President Donald Trump has agreed to a two-week ceasefire with Iran just hours before his threatened deadline to strike Iranian power plants and bridges, contingent on Iran completely and safely reopening the Strait of Hormuz.\n\nThe agreement was announced on April 8, 2026, following intense diplomatic negotiations facilitated by Pakistan's Prime Minister Shehbaz Sharif and Army Chief Field Marshal Asim Munir. According to Trump's statement on Truth Social, the ceasefire comes \"based on conversations with Prime Minister Shehbaz Sharif and Field Marshal Asim Munir, of Pakistan, and wherein they requested that I hold off the destructive force being sent tonight to Iran, and subject to the Islamic Republic of Iran agreeing to the COMPLETE, IMMEDIATE, and SAFE OPENING of the Strait of Hormuz.\"\n\nThe deal represents a significant de-escalation in the Middle East conflict that had brought the region to the brink of wider war. Trump had previously issued an ultimatum demanding Iran reopen the vital Strait of Hormuz waterway by 8 p.m. ET on April 8, 2026, or face severe consequences including strikes on Iranian power plants and bridges. The president had repeatedly warned that \"a whole civilization will die tonight\" if a deal was not reached.\n\nUnder the terms of the agreement, Iran must reopen the Strait of Hormuz - a critical chokepoint through which approximately one-fifth of world's oil and natural gas supply passes - completely, immediately, and safely. The waterway had been closed by Iran following U.S.-Israeli attacks on February 28, 2026, disrupting global energy markets and giving Tehran substantial leverage in negotiations.\n\nThe ceasefire provides a window for diplomacy to advance after weeks of escalating tensions that included mutual threats, military strikes, and humanitarian concerns. Reports indicate Tehran residents had been fleeing north toward the Caspian Sea ahead of the deadline, while Iranians formed civilian human shields around energy plants and bridges after official urging—a move Trump called \"totally illegal.\"\n\nInternational reaction to the ceasefire has been cautiously optimistic. Pope Leo XIV called Trump's earlier threats to destroy Iranian civilization \"truly unacceptable\" and violations of international law, while noting the ceasefire development as a positive step. Pakistani officials urged Iran to comply with the Strait of Hormuz reopening condition to allow diplomacy to achieve a \"conclusive termination of war.\"\n\nThe agreement potentially opens the door to a more comprehensive peace settlement, with Trump expressing hope that the ceasefire will lead to a long-term Middle East peace deal. However, significant challenges remain, including verification of Iran's compliance with the strait reopening requirement and addressing underlying issues such as regional conflicts, sanctions relief, and security guarantees that Iran has previously demanded as part of any permanent resolution.\n\nFor global energy markets, the ceasefire reduces the immediate risk of supply disruption from the Strait of Hormuz closure, which had contributed to rising oil prices and fuel security concerns in importing nations including Australia, where Prime Minister Anthony Albanese was reportedly traveling to Singapore to secure alternate petrol supplies.\n\nThe two-week timeframe creates a critical window for diplomatic efforts to build on this initial agreement and work toward a more durable resolution to the conflict that has caused widespread displacement, infrastructure damage, and humanitarian suffering across the region.",
+        "author": "SafeTravel Intelligence",
+        "datePublished": "2026-04-07T23:06:39.906550+00:00",
+        "category": "Ceasefire",
+        "tags": [
+            "Trump",
+            "Iran",
+            "ceasefire",
+            "Strait of Hormuz",
+            "Pakistan",
+            "diplomacy"
+        ],
+        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/iran-rejects.jpg",
+        "country": ["Iran", "USA"]
+    },
+    {
+        "id": "48",
         "slug": "tehran-residents-flee-caspian-sea-coast-april-2026",
         "title": "Tehran Residents Undertake Mass Exodus to Caspian Sea Coast Amid War Fears",
         "summary": "As the Iran-Israel-US conflict escalates and deadlines for potential infrastructure strikes loom, residents of Tehran are fleeing in large numbers to the Caspian Sea coast seeking refuge from the capital's relentless airstrikes and growing tensions.",
@@ -15,7 +35,8 @@
             "Iran-Israel-US conflict",
             "refugees"
         ],
-        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/tehran-residents-flee-caspian-sea-coast.jpg"
+        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/tehran-residents-flee-caspian-sea-coast.jpg",
+        "country": ["Iran"]
 },
     {
         "id": "47",
