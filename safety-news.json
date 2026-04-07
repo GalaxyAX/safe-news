@@ -1,5 +1,23 @@
 [
     {
+        "id": "20260407-003",
+        "slug": "tehran-residents-flee-caspian-sea-coast-april-2026",
+        "title": "Tehran Residents Undertake Mass Exodus to Caspian Sea Coast Amid War Fears",
+        "summary": "As the Iran-Israel-US conflict escalates and deadlines for potential infrastructure strikes loom, residents of Tehran are fleeing in large numbers to the Caspian Sea coast seeking refuge from the capital's relentless airstrikes and growing tensions.",
+        "content": "With the threat of imminent strikes on critical infrastructure hanging over Iran's capital, residents of Tehran are undertaking one of the largest waves of internal displacement since the conflict began, fleeing north to the Caspian Sea coast in search of relative safety and respite from the war.\n\nAccording to multiple reports from AFP and other news agencies, tens of thousands of Tehran residents have decamped to coastal towns along the Caspian Sea, particularly Babolsar and Tonekabon in Mazandaran province, located approximately 200 kilometers (125 miles) north of the capital beyond the Alborz mountain range. This movement represents a significant internal migration pattern as civilians seek to escape the daily reality of air strikes and the psychological toll of living under constant threat of escalation.\n\nThe Caspian coast, colloquially known as Iran's \"Riviera\" due to its beaches and more laid-back atmosphere, has long been a popular weekend and holiday destination for Tehran residents seeking relief from the capital's heat and bustle. During the current conflict, however, the region has taken on new significance as a refuge from the war, offering cooler summer temperatures, looser enforcement of religious restrictions on alcohol and extramarital relationships, and a generally more relaxed environment compared to Tehran's increasingly tense streets.\n\nThose who have made the journey cite multiple motivations for their departure. Many are directly fleeing the relentless barrage of airstrikes that have plagued Tehran throughout the conflict, while others express growing anxiety about potential strikes on critical infrastructure in the capital as diplomatic deadlines approach. The exodus has been particularly notable among middle-class residents who have the means to relocate temporarily, often relying on networks of family and friends in the coastal provinces for accommodation and support.\n\nLife along the Caspian coast presents both relief and new challenges for the displaced Tehranis. During daytime hours, the atmosphere in towns like Babolsar and Tonekabon remains relatively normal, with supermarkets stocked and shops open. However, residents report significant challenges including severe fuel restrictions—limited to just 10 liters per purchase with hours-long queues at petrol stations—and notable price increases for basic goods and services as demand surges with the influx of refugees.\n\nAs evening falls, the coastal towns experience a shift in atmosphere, with reports of pro-government demonstrations featuring flags and chants of \"Allahu Akbar\" becoming more visible in public spaces. This dichotomy between daytime tranquility and evening displays of wartime solidarity reflects the complex reality of displacement within Iran, where geographic relocation does not equate to complete escape from the conflict's social and political dimensions.\n\nPerhaps most strikingly, the exodus has given rise to an adaptive wartime economy along the Caspian coast. Many fast-food establishments in refugee-heavy areas have pivoted their business models to primarily selling VPN services and internet access at premium prices, helping residents bypass Iran's stringent communication restrictions that have tightened significantly since the war began. While these shops maintain sandwich counters as a facade, their primary revenue now comes from providing digital connectivity—a critical need for refugees seeking to stay in touch with loved ones left behind in Tehran and access uncensored information about the ongoing conflict.\n\nThe scale of this internal displacement underscores the profound human toll of the Iran-Israel-US conflict, extending far beyond battlefield casualties to encompass the psychological, economic, and social disruption experienced by civilian populations. For those who have made the journey to the Caspian Sea, the coast offers a temporary sanctuary from the immediate dangers of aerial bombardment, though many express uncertainty about how long they can sustain their displacement and concerns about the well-being of family members who remain in the capital.\n\nAs the conflict continues to evolve and deadlines for potential infrastructure strikes approach, the flow of refugees toward the Caspian coast shows few signs of abating. International observers note that this pattern of internal displacement highlights the growing humanitarian dimensions of the conflict, with civilian populations bearing an increasingly significant burden as military escalation and diplomatic brinkmanship continue to shape daily life across Iran.",
+        "author": "SafeTravel Intelligence",
+        "datePublished": "2026-04-07T22:31:59.831037+00:00",
+        "category": "Conflict",
+        "tags": [
+            "Tehran",
+            "Caspian Sea",
+            "internal displacement",
+            "Iran-Israel-US conflict",
+            "refugees"
+        ],
+        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/tehran-residents-flee-caspian-sea-coast.jpg"
+},
+    {
         "id": "47",
         "slug": "deadly-earthquake-floods-worsen-afghanistan-crisis-april-2026",
         "title": "Deadly Earthquake and Floods Compound Afghanistan's Humanitarian Crisis",
@@ -16,7 +34,7 @@
         ],
         "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/deadly-earthquake-floods-worsen-afghanistan.jpg",
         "country": ["Afghanistan"]
-},
+    },
     {
         "id": "46",
         "slug": "ireland-fuel-price-protests-tractors-trucks-dublin-april-2026",
