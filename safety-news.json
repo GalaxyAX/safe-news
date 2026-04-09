@@ -16,7 +16,8 @@
             "Strait of Hormuz",
             "Lebanon conflict"
         ],
-        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/us-iran-ceasefire-islamabad.jpg"
+        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/us-iran-ceasefire-islamabad.jpg",
+        "country": ["United States of America", "Iran", "Pakistan", "Lebanon"]
     },
     {
         "id": "56",
