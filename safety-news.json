@@ -374,7 +374,8 @@
             "Oil Infrastructure",
             "Strait of Hormuz"
         ],
-        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/kharg-island-strikes.jpg"
+        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/kharg-island-strikes.jpg",
+        "country": ["United States of America", "Iran"]
     },
     {
         "id": "44",
@@ -392,7 +393,8 @@
                 "Terrorism",
                 "Police Casualties"
             ],
-        "imageUrl":"https://github.com/GalaxyAX/safe-news/blob/main/image/istanbul-consulate-shooting.jpg"
+        "imageUrl":"https://github.com/GalaxyAX/safe-news/blob/main/image/istanbul-consulate-shooting.jpg",
+        "country": ["Turkey"]
     },
     {
         "id": "43",
@@ -414,7 +416,8 @@
             "Flight Cancellations",
             "Border Crossings"
         ],
-        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/travel-advisory.jpg"
+        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/travel-advisory.jpg",
+        "country": ["Iran", "Israel", "Lebanon", "Jordan", "Saudi Arabia", "UAE", "Qatar", "Bahrain", "Kuwait", "Oman"]
     },
     {
         "id": "42",
@@ -432,7 +435,8 @@
             "Civilian Casualties",
             "Strait of Hormuz"
         ],
-        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/iran-human-shields.jpg"
+        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/iran-human-shields.jpg",
+        "country": ["Iran"]
     },
     {
         "id": "41",
@@ -451,7 +455,8 @@
             "Casualties",
             "Gulf Security"
         ],
-        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/saudi-arabia-ras-tanura-strike.jpg"
+        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/saudi-arabia-ras-tanura-strike.jpg",
+        "country": ["Saudi Arabia", "Iran"]
     },
     {
         "id": "40",
@@ -463,7 +468,8 @@
         "datePublished": "2026-04-06T22:00:00Z",
         "category": "Conflict",
         "tags": ["Iran", "US-Iran War", "Strait of Hormuz", "Ceasefire", "Middle East", "Energy Crisis", "Israel", "Ukraine"],
-        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/iran-rejects.jpg"
+        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/iran-rejects.jpg",
+        "country": ["Iran", "United States of America"]
     },
     {
         "id": "39",
@@ -481,7 +487,8 @@
             "Press Conference",
             "Strait of Hormuz"
         ],
-        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/trump-press-conference-iran-threat.jpg"
+        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/trump-press-conference-iran-threat.jpg",
+        "country": ["United States of America", "Iran"]
     },
     {
         "id": "38",
@@ -500,7 +507,8 @@
             "Natural Disaster",
             "Casualties"
         ],
-        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/pakistan-rain-disaster.jpg"
+        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/pakistan-rain-disaster.jpg",
+        "country": ["Pakistan"]
     },
     {
         "id": "37",
@@ -512,7 +520,8 @@
         "datePublished": "2026-04-06T13:40:00Z",
         "category": "Security",
         "tags": ["Iran", "United States", "Strait of Hormuz", "Donald Trump", "Middle East", "Ceasefire", "Oil Markets"],
-        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/trump.jpg"
+        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/trump.jpg",
+        "country": ["United States of America", "Iran"]
     },
     {
         "id": "36",
@@ -524,7 +533,8 @@
         "datePublished": "2026-04-06T12:30:00+08:00",
         "category": "Disaster",
         "tags": ["Earthquake", "Philippines", "Cebu", "Natural Disaster", "Visayas"],
-        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/earthquake-strikes-cebu-philippines.jpg"
+        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/earthquake-strikes-cebu-philippines.jpg",
+        "country": ["Philippines"]
     },
     {
         "id": "35",
@@ -544,7 +554,8 @@
             "Beit Awwa",
             "Hebron"
         ],
-        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/cluster-munitions.jpg"
+        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/cluster-munitions.jpg",
+        "country": ["Palestine", "Iran", "West Bank"]
     },
     {
         "id": "34",
@@ -563,7 +574,8 @@
             "Geopolitics",
             "European Security"
         ],
-        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/nato-crisi.jpg"
+        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/nato-crisi.jpg",
+        "country": ["United States of America"]
     },
     {
         "id": "33",
@@ -582,7 +594,8 @@
             "Oil Terminal",
             "NORSI Refinery"
         ],
-        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/novorossiysk-oil-fire.jpg"
+        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/novorossiysk-oil-fire.jpg",
+        "country": ["Russia", "Ukraine"]
     },
     {
         "id": "32",
@@ -600,7 +613,8 @@
             "Civilian Casualties",
             "Missing Persons"
         ],
-        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/haifa-strike-rescue-operations.jpg"
+        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/haifa-strike-rescue-operations.jpg",
+        "country": ["Israel"]
     },
     {
         "id": "31",
@@ -619,7 +633,8 @@
             "Missile Strike",
             "Protests"
         ],
-        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/haifa-missile-strike.jpg"
+        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/haifa-missile-strike.jpg",
+        "country": ["Israel"]
     },
     {
         "id": "30",
@@ -639,7 +654,8 @@
             "Santa Ana Winds",
             "Moreno Valley"
         ],
-        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/california-springs-fire.jpg"
+        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/california-springs-fire.jpg",
+        "country": ["United States of America"]
     },
     {
         "id": "29",
@@ -657,7 +673,8 @@
             "Humanitarian Crisis",
             "Displacement"
         ],
-        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/lebanon-election-delay-crisis.jpg"
+        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/lebanon-election-delay-crisis.jpg",
+        "country": ["Lebanon"]
     },
     {
         "id": "28",
@@ -675,7 +692,8 @@
             "Muqtada al-Sadr",
             "Anti-War"
         ],
-        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/baghdad-anti-war-protests.jpg"
+        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/baghdad-anti-war-protests.jpg",
+        "country": ["Iraq"]
     },
     {
         "id": "27",
@@ -693,7 +711,8 @@
             "Maritime Crisis",
             "Essential Goods"
         ],
-        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/hormuz-aid.jpg"
+        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/hormuz-aid.jpg",
+        "country": ["Iran"]
     },
     {
         "id": "26",
@@ -712,7 +731,8 @@
             "Habima Square",
             "Houthi Missile Attack"
         ],
-        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/tel-aviv-anti-war-protest.jpg"
+        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/tel-aviv-anti-war-protest.jpg",
+        "country": ["Israel"]
     },
     {
         "id": "25",
@@ -731,7 +751,8 @@
             "El-Sisi",
             "Hydroelectric Power"
         ],
-        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/nile_river.jpg"
+        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/nile_river.jpg",
+        "country": ["Egypt", "Ethiopia"]
     },
     {
         "id": "24",
@@ -750,7 +771,8 @@
             "Nuclear Facility",
             "Energy Infrastructure"
         ],
-        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/nuclear.jpg"
+        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/nuclear.jpg",
+        "country": ["Iran"]
     },
     {
         "id": "23",
@@ -768,7 +790,8 @@
             "Missiles",
             "Rockets"
         ],
-        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/iranian-missile.jpg"
+        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/iranian-missile.jpg",
+        "country": ["Israel", "Iran", "Lebanon"]
     },
     {
         "id": "22",
@@ -788,7 +811,8 @@
             "Eastern Lebanon",
             "Maroun al-Ras"
         ],
-        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/beirut.jpg"
+        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/beirut.jpg",
+        "country": ["Israel", "Lebanon"]
     },
     {
         "id": "21",
@@ -807,7 +831,8 @@
             "F-15 Pilot",
             "Second U.S. Jet"
         ],
-        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/airstrikes.jpg"
+        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/airstrikes.jpg",
+        "country": ["Israel", "Iran", "United States of America"]
     },
     {
         "id": "20",
@@ -826,7 +851,8 @@
             "Bridge Destruction",
             "Karaj"
         ],
-        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/f15.jpg"
+        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/f15.jpg",
+        "country": ["Iran", "United States of America"]
     },
     {
         "id": "19",
@@ -846,7 +872,8 @@
             "Northern Israel",
             "Strikes"
         ],
-        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/idf-strikes-beirut-tehran.jpg"
+        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/idf-strikes-beirut-tehran.jpg",
+        "country": ["Israel", "Iran", "Lebanon"]
     },
     {
         "id": "18",
@@ -865,7 +892,8 @@
             "Economic Warfare",
             "IRGC"
         ],
-        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/iran-steel.jpg"
+        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/iran-steel.jpg",
+        "country": ["Israel", "Iran"]
     },
     {
         "id": "17",
@@ -884,7 +912,8 @@
             "3500 Targets",
             "1000 Militants Killed"
         ],
-        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/israel-lebanon-strikes.jpg"
+        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/israel-lebanon-strikes.jpg",
+        "country": ["Israel", "Lebanon"]
     },
     {
         "id": "16",
@@ -903,7 +932,8 @@
             "Kiryat Ata",
             "Haifa"
         ],
-        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/iranian-missile.jpg"
+        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/iranian-missile.jpg",
+        "country": ["Israel"]
     },
     {
         "id": "15",
@@ -921,7 +951,8 @@
             "Middle East Conflict",
             "CARE"
         ],
-        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/lebanon-humanitarian-crisis.jpg"
+        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/lebanon-humanitarian-crisis.jpg",
+        "country": ["Lebanon"]
     },
     {
         "id": "13",
@@ -939,7 +970,8 @@
             "Vaccination",
             "Americas"
         ],
-        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/measles_outbreak.jpg"
+        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/measles_outbreak.jpg",
+        "country": ["United States of America", "Mexico", "Canada"]
     },
     {
         "id": "12",
@@ -952,12 +984,14 @@
         "category": "Safety",
         "tags": [
             "Terrorism",
-             "Norway",
+            "Norway",
             "Security",
             "Attack",
             "Europe"
         ],
-        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/oslo_embassy_attack.jpg"
+        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/oslo_embassy_attack.jpg",
+        "country": ["Norway"]
+
     },
     {
         "id": "11",
@@ -975,7 +1009,8 @@
             "Security",
             "Defence"
         ],
-        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/north_korea_missile.jpg"
+        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/north_korea_missile.jpg",
+        "country": ["North Korea"]
     },
     {
         "id": "10",
@@ -993,7 +1028,8 @@
             "Natural Disaster",
         "Asia"
         ],
-        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/indonesia-earthquake.jpg"
+        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/indonesia-earthquake.jpg",
+        "country": ["Indonesia"]
     },
     {
         "id": "9",
@@ -1011,7 +1047,8 @@
             "Natural Disaster",
             "Safety"
         ],
-        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/tokyo-earthquake.jpg"
+        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/tokyo-earthquake.jpg",
+        "country": ["Japan"]
     },
     {
          "id": "8",
@@ -1029,7 +1066,8 @@
             "Cyberattack",
             "Risk"
         ],
-        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/cyberattack_iran.jpg"
+        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/cyberattack_iran.jpg",
+        "country": ["United States of America"]
     },
     {
         "id": "7",
@@ -1047,7 +1085,8 @@
             "Intelligence",
             "Security"
         ],
-        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/arrested.jpg"
+        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/arrested.jpg",
+        "country": ["India"]
     },
     {
         "id": "6",
@@ -1066,7 +1105,8 @@
             "Energy",
             "Conflict"
         ],
-        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/iran.war.0426.jpg"
+        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/iran.war.0426.jpg",
+        "country": ["United States of America", "Iran"]
      },
     {
         "id": "5",
