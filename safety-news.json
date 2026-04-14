@@ -1,6 +1,45 @@
 [
     {
-        "id": "20260413-007",
+        "id": "83",
+        "slug": "janelarat-malware-targeting-latin-american-banks-april-14-2026",
+        "title": "JanelaRAT Malware Campaign Targets Latin American Banks with Thousands of Attacks",
+        "summary": "A sophisticated malware campaign involving the JanelaRAT trojan is actively targeting banks and financial institutions across Latin America, with thousands of attacks reported as of April 14, 2026, posing a significant threat to regional financial infrastructure.",
+        "content": "## Threat Overview\n\nAccording to CXO Digital Pulse, a sophisticated malware campaign involving the JanelaRAT trojan is actively targeting banks and financial institutions across Latin America. The campaign has already resulted in thousands of attacks, indicating a coordinated and widespread effort to compromise financial systems throughout the region.\n\n## Malware Characteristics\n\nJanelaRAT is described as a sophisticated remote access trojan (RAT) that likely enables attackers to:\n\n- Gain unauthorized access to banking systems\n- Exfiltrate sensitive financial and customer data\n- Potentially manipulate financial transactions\n- Maintain persistent access to compromised networks\n- Deploy additional malicious payloads\n\n## Geographic Scope\n\nThe campaign targets financial institutions across Latin America, suggesting a broad regional focus rather than isolated country-specific attacks. This widespread approach indicates the threat actors have significant resources and intend to maximize impact across multiple national financial systems.\n\n## Attack Timeline and Scale\n\nAs of April 14, 2026:\n\n- Detection: Campaign identified and reported\n- Scale: Thousands of attacks already recorded\n- Ongoing Nature: Described as \"actively targeting,\" suggesting ongoing and possibly increasing attack volume\n- Recent Activity: Specifically noted as current as of April 14, 2026 (3 hours prior to reporting)\n\n## Potential Impact\n\nThe JanelaRAT campaign poses significant risks to Latin American financial systems:\n\n- Financial Theft: Direct monetary losses from unauthorized transactions\n- Data Breaches: Exposure of customer personal and financial information\n- Operational Disruption: Potential banking service interruptions\n- Regulatory Consequences: Possible fines and penalties for inadequate cybersecurity\n- Reputational Damage: Erosion of public trust in financial institutions\n- Systemic Risk: Potential for cascading effects across interconnected financial networks\n\n## Regional Cybersecurity Context\n\nThis campaign represents an evolution in Latin America's threat landscape:\n\n- Increasing Sophistication: Moves beyond basic phishing to advanced, targeted malware\n- Financial Sector Focus: Highlights banks as prime targets for cybercriminals\n- Transnational Nature: Demonstrates cyber threats that disregard national borders\n- Resource Investment: Indicates significant backing for large-scale attack campaigns\n\n## Recommended Actions\n\nFinancial institutions in the region should consider:\n\n- Enhancing email and web security to prevent initial compromise\n- Implementing advanced endpoint detection and response (EDR) solutions\n- Conducting threat hunting activities to identify existing compromises\n- Sharing threat intelligence through regional financial ISACs (Information Sharing and Analysis Centers)\n- Conducting specialized malware analysis to develop specific defenses\n- Reviewing and updating incident response plans for financial malware scenarios\n\nAs of April 14, 2026, the JanelaRAT malware campaign represents an active and significant threat to Latin American financial infrastructure requiring immediate attention from banks, regulators, and cybersecurity authorities across the region.",
+        "author": "SafeTravel Intelligence",
+        "datePublished": "2026-04-14T11:36:00Z",
+        "category": "Cybersecurity",
+        "tags": [
+            "JanelaRAT",
+            "malware",
+            "Latin America",
+            "banks",
+            "trojan"
+        ],
+        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/janelarat-latin-america-banks-april-2026.jpg",
+        "country": [
+            "Brazil",
+            "Mexico",
+            "Argentina",
+            "Colombia",
+            "Chile",
+            "Peru",
+            "Venezuela",
+            "Ecuador",
+            "Guatemala",
+            "Cuba",
+            "Bolivia",
+            "Honduras",
+            "Paraguay",
+            "El Salvador",
+            "Nicaragua",
+            "Costa Rica",
+            "Panama",
+            "Uruguay",
+            "Dominican Republic"
+        ]
+    },
+    {
+        "id": "82",
         "slug": "philippines-accuses-china-cyanide-second-thomas-shoal-april-13-2026",
         "title": "Philippines Accuses China of Cyanide Use Near Second Thomas Shoal in South China Sea",
         "summary": "The Philippines' National Security Council confirmed that laboratory analysis revealed cyanide in bottles recovered from Chinese boats near Second Thomas Shoal (Ayungin Shoal) in February and October 2025, alleging that Chinese Maritime Militia vessels have been using cyanide poisoning in disputed South China Sea waters.",
