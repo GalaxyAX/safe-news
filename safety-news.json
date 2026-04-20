@@ -1,5 +1,29 @@
 [
     {
+        "id": "111",
+        "slug": "japan-earthquake-tsunami-warning-hokkaido-iwate-april-2026",
+        "title": "Powerful 7.4 Magnitude Earthquake Triggers Tsunami Warning in Northern Japan",
+        "summary": "A strong offshore earthquake struck northern Japan, prompting tsunami warnings across Hokkaido, Aomori, and Iwate, with evacuations underway along coastal areas.",
+        "content": "## Major Offshore Earthquake Strikes Northern Japan\n\nA powerful earthquake with a preliminary magnitude of 7.4 struck off the northeastern coast of Japan on April 20, 2026, triggering immediate tsunami warnings across multiple regions. The quake occurred offshore at a shallow depth of approximately 10 kilometers, increasing the risk of significant surface impact.\n\nThe epicenter was located in the Pacific Ocean near the Sanriku coastline, a seismically active area known for large offshore earthquakes. Strong shaking was reported across parts of northern Japan, including Hokkaido, Aomori, and Iwate prefectures.\n\n## Tsunami Warning Issued for Coastal Regions\n\nJapan’s meteorological authorities issued a tsunami warning shortly after the earthquake, forecasting waves of up to 3 meters along affected coastlines. The warning specifically covers Iwate and Hokkaido, with additional alerts extending to Aomori and surrounding areas.\n\nAuthorities warned that tsunami waves could arrive quickly and may occur repeatedly, urging residents to evacuate immediately to higher ground or designated evacuation facilities.\n\nInitial monitoring reports indicate that smaller tsunami waves have already been observed at several coastal locations, confirming the active threat.\n\n## Emergency Response and Evacuations\n\nEmergency protocols were activated nationwide following the quake. Local governments issued evacuation advisories, particularly for coastal communities and low-lying areas.\n\nFishing vessels were observed moving offshore as a precautionary measure, a common safety response aimed at avoiding damage from nearshore tsunami surges. Public transportation systems, including high-speed rail services in affected regions, were temporarily halted to ensure safety.\n\nJapan’s central government established an emergency response team to coordinate disaster management efforts and monitor developments in real time.\n\n## Infrastructure and Immediate Impact\n\nThe earthquake registered strong shaking on Japan’s seismic intensity scale, with levels capable of causing structural damage, particularly to older or less reinforced buildings.\n\nAs of initial reports, there are no confirmed large-scale casualties, though damage assessments are ongoing. Authorities are focusing on rapid evaluation of infrastructure, including ports, roads, and critical facilities such as power plants.\n\nJapan’s advanced early warning systems provided alerts seconds before the strongest shaking, allowing many residents and systems to take immediate protective action.\n\n## Analysis: High-Risk Seismic Zone\n\nThe affected region lies along the Japan Trench, part of the Pacific Ring of Fire, where tectonic plate interactions frequently generate powerful earthquakes. Shallow offshore quakes, such as this event, are particularly dangerous due to their potential to displace large volumes of water and generate tsunamis.\n\nThe issuance of a 3-meter tsunami warning indicates a significant threat level, as waves of this height can cause flooding, structural damage, and pose serious risks to life in coastal zones.\n\nJapan’s preparedness systems—developed after previous major disasters—are designed to minimize casualties through rapid alerts and well-practiced evacuation procedures.\n\n## Outlook\n\nThe situation remains dynamic as authorities continue to monitor tsunami activity and assess damage. Residents in affected regions are advised to remain in safe locations until official warnings are lifted.\n\nAftershocks are likely in the coming hours and days, which may further complicate recovery and response efforts.\n\nWhile Japan’s infrastructure and preparedness significantly reduce risk, the combination of a strong offshore earthquake and active tsunami warnings represents a serious natural hazard event requiring continued vigilance.\n\nFurther updates are expected as emergency teams complete damage assessments and confirm the full impact of the disaster.",
+        "author": {
+            "name": "Antony Pilgrim",
+            "slug": "antony-pilgrim",
+            "url": "https://www.safetravel.global/authors/antony-pilgrim"
+        },
+        "datePublished": "2026-04-20T12:30:00Z",
+        "dateModified": "2026-04-20T12:30:00Z",
+        "category": "Disaster",
+        "tags": [
+            "Japan",
+            "earthquake",
+            "tsunami",
+            "Hokkaido",
+            "Iwate"
+        ],
+        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/japan-earthquake.jpg",
+        "country": ["Japan"]
+    },
+    {
         "id": "110",
         "slug": "second-us-flight-bomb-scare-aviation-security-april-2026",
         "title": "Second US Flight Hit by Bomb Scare Within 24 Hours, Triggering Heightened Aviation Security",
