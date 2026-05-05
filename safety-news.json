@@ -20,6 +20,8 @@
             "Afghan border"
         ],
         "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/pakistan-blast.jpg",
+        "youtubeUrl": "https://youtube.com/shorts/gyeraNYcS5Y?feature=share",
+
         "country": ["Pakistan"]
     },
     {
@@ -45,7 +47,6 @@
         ],
         "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/leipzig-incident.jpg",
         "youtubeUrl": "https://youtube.com/shorts/yjijpziESIc?feature=share",
-
         "country": ["Germany"]
     },
     {
