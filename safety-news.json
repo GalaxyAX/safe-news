@@ -22,6 +22,7 @@
             "ash cloud"
         ],
         "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/sakurajima-eruption.jpg",
+        "videoUrl": "https://youtube.com/shorts/hBnjOeM9g50?feature=share",
         "country": ["Japan"]
     },
     {
@@ -45,7 +46,7 @@
             "Sinaloa"
         ],
         "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/los-mochis-fire.jpg",
-        "videoUrl": "https://youtube.com/shorts/wKTq1c9isDg?feature=share",
+        "videoUrl": "https://youtube.com/shorts/wKTq1c9isDg",
         "country": ["Mexico"]
     },
     {
